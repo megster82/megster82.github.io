@@ -1,0 +1,28 @@
+h1	{
+	font-family: Century Gothic;
+	color: coral;
+	text-align: center;
+	text-decoration: green wavy underline;
+	text-decoration-style: white outline;
+}
+
+p	{
+	color: white;
+	font-family: Futura;
+	font-weight: lighter;
+	font-size: 14pt;
+}
+
+li	{
+	font-family: Futura;
+	color: coral;
+	font-size: 12pt;
+	font-style: italic;
+}
+
+a	{
+	font-family: Century Gothic;
+	color: #8fbb54;
+	text-align: center;
+}
+
