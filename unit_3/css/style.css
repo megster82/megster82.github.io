@@ -1,23 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Quicksand&display=swap');
 h1	{
 	font-family: Century Gothic;
 	color: coral;
 	text-align: center;
 	text-decoration: green wavy underline;
 	text-decoration-style: white outline;
+	margin: 1.5em;
+}
+
+h2	{
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	margin: 1.5em;
 }
 
 p	{
 	color: white;
-	font-family: Futura;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: lighter;
 	font-size: 14pt;
+	margin: 1.5em;
 }
 
 li	{
-	font-family: Futura;
+	font-family: 'Open Sans', sans-serif;
 	color: coral;
-	font-size: 12pt;
-	font-style: italic;
+	font-size: 13pt;
+	margin: 1.5em;
 }
 
 a	{
