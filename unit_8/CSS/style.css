@@ -7,70 +7,91 @@
     height: 0;
 }  
 
+
 header {
-  background-color: #FFED74;
+  background-color: darkolivegreen;
+    color: white;
     border: 1px black solid;
     padding: 30px;
     width: 100%;
+    text-align: center;
+    font-family: Century Gothic;
 }
 
 nav {
-  background-color: #E8C66A;
-        border: 1px black solid;
+  background-color: #ccccb3;
+    color: darkolivegreen;
     padding: 30px;
-    width: 100%;
+    width: 90%;
     font-size: 1em;
+    text-align: center;
+    font-weight: 500;
+    font-family: Century Gothic;
+    float: none;
 }
 
 aside {
  background-color: #FFC675;
-        border: 1px black solid;
+        border: 1px white solid;
     padding: 20px;
     width: 90%;
+    font-family: Century Gothic;
 }
 
 article {
  background-color: #E89C6C;
-        border: 1px black solid;
+        border: 1px white solid;
     padding: 20px;
     width: 90%;
 }
 
 #two_column {
- background-color: #FFB7CF;
-        border: 1px black solid;
+ background-color: #FFFFFF;
         padding: 20px;
+    font-family: Century Gothic;
+    width: 92%;
 }
 
 #left {
- background-color: #E582A2;
-        border: 1px black solid;
+ background-color: #999966;
+        border: 1px white solid;
         padding: 20px;
         float: left;
         width: 35%;
 }
 
 #right  {
-  background-color: #E55B88;
-  border: 1px black solid;
+  background-color: #ffd966;
+  border: 1px white solid;
   padding: 20px;
   float: right;
-  width: 53%;
+  width: 55%;
+color: #999966;
+}
+
+img {
+	max-width: 100%;
 }
 
 footer {
-  background-color: #FF957E;
-        border: 1px black solid;
+  background-color: #ffa64d;
     padding: 20px;
+    font-family: Century Gothic;
+    text-align: center;
+    width: 92%;
 }
 
 div / section {
   background-color: #FFE2B8;
-        border: 1px black solid;
+        border: 1px white solid;
     padding: 20px;
 }
 
-@media only screen and (min-width: 370px) and (max-width: 768px)
+li  {
+    text-align: left;
+}
+
+@media only screen and (min-width: 370px) and (max-width: 968px)
 {
     #right, #left  {
         float: none;
