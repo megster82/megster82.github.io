@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ramble Farms</title>
+</head>
+
+<body>
+	<table cellspacing="4" style="font-family: Helvetica, Arial, sans-serif; font-size: 16px;
+                  line-height: 1.5;" border="2" width="100%">		
+		<tr>
+          <th style="font-size: 2em; color: darkgreen;"
+          align="left">Ramble Farms</th>
+			<td><a href="#" style="text-align: inherit; text-decoration: none; color: darkgreen;"
+                   >Hops Tastings</a></td>
+			<table cellspacing="5" align="center" border="2">
+				<tr>
+   <td><a href="#" style="font-family:fantasy; color: coral;">location</a></td>
+   <td><a href="#" style="font-family:fantasy; color: goldenrod;">about</a></td>
+   <td><a href="#" style="font-family:fantasy; color: darkgreen;">contact</a></td>
+</tr>
+			</table>
+		</tr>
+		<tr>
+			<td colspan="3" align="center"
+                style="background: #fffebb;">
+              <img src="https://modernfarmer.com/wp-content/uploads/2015/07/hopbud-1200x741.jpeg"
+                   style="width: 400px;"
+                   alt="learn more!">
+		</td>
+		<tr>
+			<td style="background:#222222; color: white; 
+                       padding: 2em;" width="30%" valign="top">
+				<h2 style="color: darkgreen; text-transform: uppercase; 
+                           border-bottom: 4px solid darkgreen; 
+                           display: inline-block;">party details</h2>
+				<p style="font-family: fantasy; color: saddlebrown">Come join us for a hops picking event!</p>
+			</td>
+			<td style="background:#222222; color: white; 
+                       padding: 1em;" width="50%" valign="top">
+				<h2 style="color: darkgreen; text-transform: uppercase; 
+                           border-bottom: 4px solid darkgreen; 
+                           display: inline-block;">how to join</h2>
+                <p style="font-family: fantasy; color: saddlebrown;">Click on the link below to learn how to join in the fun!</p>
+				<table style="color: black;
+                              background: white;" 
+                       cellpadding="20" cellspacing="0" align="center" border="0">
+					<tr>
+						<td style="color: darkgoldenrod; font-family: fantasy">Home Page</td>
+						<td style="color: darkorange; font-family: fantasy">Our Local Farm</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2">© Ramble Farms 2019</td>
+		</tr>
+	</table>
+</body>
+
+</html>
